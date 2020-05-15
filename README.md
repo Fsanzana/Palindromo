@@ -3,7 +3,7 @@
   <div>
     <h2>Integrantes:</h2>
     <details>
-      -Luis Burgos
+      -Luis Burgos<br/>
       -Fernando Robles
         -Felipe Sanzana 
     </details>
