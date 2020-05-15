@@ -1,5 +1,3 @@
-import org.apache.commons.lang3.StringUtils;
-
 import static org.apache.commons.lang3.StringUtils.*;
 
 public class Palindromo {
@@ -15,8 +13,5 @@ public class Palindromo {
         }
         System.out.println(inversa);
         return palabra.equalsIgnoreCase(inversa);
-
     }
-
-
 }
