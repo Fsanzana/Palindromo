@@ -2,9 +2,11 @@
 <body>
   <div>
     <h2>Integrantes:</h2>
+    <details>
       -Luis Burgos
       -Fernando Robles
         -Felipe Sanzana 
+    </details>
 
 
 
