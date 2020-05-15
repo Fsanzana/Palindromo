@@ -13,9 +13,10 @@ public class PalindromoTest {
 
     @org.junit.Test
     public void esPalindromo() {
-        assertTrue(p.esPalindromo("anita lava la tina"));
+        assertTrue(p.esPalindromo("Anita lava la tina"));
         assertFalse(p.esPalindromo("gatito"));
         assertTrue(p.esPalindromo("alli ves a sevilla"));
         assertFalse(p.esPalindromo("anita no lava la tina"));
+        assertFalse(p.esPalindromo("anita lava la tína"));
     }
 }
