@@ -4,9 +4,9 @@
   
    <h2>Integrantes:</h2>  <details>
    <summary></summary>
-      -Luis Burgos
-      -Fernando Robles
-      -Felipe Sanzana 
+      -Luis Burgos </br>
+      -Fernando Robles</br>
+      -Felipe Sanzana </br>
    </details>
 
 
