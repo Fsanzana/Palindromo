@@ -17,6 +17,12 @@ public class PalindromoTest {
         assertFalse(p.esPalindromo("gatito"));
         assertTrue(p.esPalindromo("alli ves a sevilla"));
         assertFalse(p.esPalindromo("anita no lava la tina"));
-        assertFalse(p.esPalindromo("anita lava la tína"));
+        assertTrue(p.esPalindromo("anita lava la tína"));
+        assertFalse(p.esPalindromo("200"));
+        assertTrue(p.esPalindromo("1 anita lava la tina 1"));
+        assertTrue(p.esPalindromo("añita lava la tiña"));
+        assertFalse(p.esPalindromo("anita, lava, la, tina"));
+        assertTrue(p.esPalindromo(""));
+        assertTrue(p.esPalindromo("°|!#$%&/()=?'¡¿´¨+*~}]`{[^,;.:-__-:.;,^[{`]}~*+¨´¿¡'?=)(/&%$#!|°"));
     }
 }
