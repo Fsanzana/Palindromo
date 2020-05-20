@@ -2,7 +2,7 @@ import static org.apache.commons.lang3.StringUtils.*;
 
 public class Palindromo {
 
-
+    //Sanzana
     boolean esPalindromo(String palabra){
         String inversa="";
 
